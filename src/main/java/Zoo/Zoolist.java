@@ -1,4 +1,4 @@
-package Zoo.Animals;
+package Zoo;
 
 public enum Zoolist {
     Cat,
