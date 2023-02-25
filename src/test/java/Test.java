@@ -12,7 +12,6 @@ public class Test {
             searchInput.sendKeys("Привет");
             WebElement startSearch = driver.findElement(By.name("btnK"));
             searchInput.click();
-            Thread.sleep(3000);
             driver.quit();
     }
 }
